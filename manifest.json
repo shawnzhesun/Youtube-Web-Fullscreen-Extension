@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Youtube Popup",
+  "description": "This extension will fill up the chrome tab with Youtube video",
+  "version": "1.0",
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   "tabs"
+   ]
+}
