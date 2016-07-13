@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Youtube Popup",
+  "name": "Youtube Player Maximizer 网页全屏",
   "description": "This extension will fill up the chrome tab with Youtube video",
   "version": "1.0",
   "browser_action": {
